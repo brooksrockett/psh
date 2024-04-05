@@ -15,7 +15,7 @@ This PowerShell script (PSH.ps1) provides a convenient way to view and search th
 
 #### Saving the Script:
 
-1.  Save the following script content as `PSH.ps1` in your desired location.
+1.  Save the .ps1 script file as `PSH.ps1` in your desired location.
 2.  Open a PowerShell window and navigate to the directory containing `PSH.ps1`.
 
 #### Running the Script:
